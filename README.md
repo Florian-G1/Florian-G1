@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Florian</h1>
 <h3 align="center">A student in MSc at Epitech</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Socket.IO**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
